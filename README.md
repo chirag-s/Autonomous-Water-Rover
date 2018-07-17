@@ -1,2 +1,6 @@
 # Autonomous-Water-Rover
-the The final year project which won multiple awards and was highly apprecialted and will one day change the water quality mapping capablilities of quality control personnel is described herein.
+
+Water pollution is an age-old problem. Effective technologies and regulations to counter this is still under research with a booming rate. However, to solve a problem, identification and localization of the root source is essential. Today, to recognize the lakes or any other water bodies not satisfying the safety regulation, manual methods are employed. Stationary ground stations with sensors immersed at fixed points are used to measure the water parameters.
+
+The Autonomous Water Rover monitors a water body by following the path specified by the user using GPS coordinates and traverses the water body as per the instructions with obstacle avoidance. It has different sensors like pH, percentage of dissolved oxygen, temperature, turbidity, etc. which gives us real time data on our server about the different parameters of the water body. A sonar transducer is also used to provide depth information up to 100 feet. The depth information of a water body can be used by ports, dredging companies and hydrographic offices. The rover also has a camera with first person view which can stream live video to a website in case of any emergencies regarding the waters or on rover itself. An AWR is really helpful as it will autonomously do some specified tasks which at present are carried out by humans.
+
